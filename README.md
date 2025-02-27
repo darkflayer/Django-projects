@@ -7,6 +7,6 @@ It allows users to:
 ✅ Delete tasks  
 
 ## Installation
-1. Clone this repo  
+1. Clone this repository  
 ```bash
 git clone https://github.com/your-username/Django-projects.git
