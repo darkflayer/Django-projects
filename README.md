@@ -1,7 +1,7 @@
 # Django To-Do Project
 
 This is a simple To-Do web app built with Django.  
-It allows users to:
+It allows users to:-
 ✅ Add tasks  
 ✅ Mark tasks as completed  
 ✅ Delete tasks  
